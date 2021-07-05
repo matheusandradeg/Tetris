@@ -1,0 +1,9 @@
+{
+	"name": "ADFcursoavanade",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "983cb35f-330f-4ca9-8e61-539d76ea1860",
+		"tenantId": "cf36141c-ddd7-45a7-b073-111f66d0b30c"
+	}
+}
